@@ -35,30 +35,3 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
-
-### 🧠 Soft Skills & Practices
-- ✅ Accessibility (WCAG)
-- 📱 Responsive Design
-- 📐 Agile Methodologies
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhi-webdev&show_icons=true&theme=default" alt="Nidhi's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-webdev&layout=compact&theme=default" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/nidhi-kumari-419125236/))
-- 📧 Email: nidhikumariace0501@gmail.com
-
----
-
-*Thanks for visiting my profile! 💻*
